@@ -1,5 +1,5 @@
 # AppArchDemo
-第3章的案例参考
+应用架构设计
 
 ## 新书上市：
 + 京东链接：https://item.jd.com/12477683.html
